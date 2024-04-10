@@ -9,5 +9,8 @@ sudo apt update && sudo apt upgrade && sudo apt install git && sudo apt install 
 
 Then go trough ssh.
 
+Once the repository is cloned 
 
-use sh "folder sh script" to run
+cd 30XX-rig-configurations
+
+sh run-config.sh
