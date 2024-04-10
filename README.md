@@ -3,10 +3,8 @@
 
 Prior to running this script, you must have ran the following command in order to reach ssh and clone this repo :
 
-Sudo apt update
-Sudo apt upgrade 
-sudo apt install git
-Sudo apt install openssh-server
+sudo apt update && sudo apt upgrade && sudo apt install git && sudo apt install openssh-server
+
 
 
 Then go trough ssh.
