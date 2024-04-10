@@ -8,3 +8,6 @@ sudo apt update && sudo apt upgrade && sudo apt install git && sudo apt install 
 
 
 Then go trough ssh.
+
+
+use sh "folder sh script" to run
