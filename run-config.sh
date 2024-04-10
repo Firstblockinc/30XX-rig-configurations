@@ -15,6 +15,9 @@ sudo apt upgrade -y
 # Install Git
 sudo apt install -y git
 
+Sudo apt install -y python3-pip
+Sudo apt install  -y vim
+
 # Additional system configuration and cleanup
 sudo apt-get install -y libgtk-3-0 xinit xserver-xorg-core
 sudo apt-get remove -y gnome-shell
